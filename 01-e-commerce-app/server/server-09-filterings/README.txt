@@ -1,0 +1,4 @@
+filterings:
+
+- onSale: true
+- onAverageRating
